@@ -1,13 +1,14 @@
 # Portfolio-Optimization
 
-1. Data:
-   - Data of'Ajd Close' of 100 tickers from 2018 to 2024.
+1. Data Collection and Manipulation:
+   - Data of 'Ajd Close' of approximately 100 tickers from 1st Jan 2018 to 1st Jan 2024.
+   - Tickers and Data is filtered based on sectors.
   
 2. Feature Engineering:
    - The features used in regression are Log Returns, PE Ratio, Beta.
 
    - Log Returns:
-      - 
+     - 
      
    - PE Ratio (Price-to-Earnings):
      - PE Ratio = Market Value per Share / Earnings per Share.
